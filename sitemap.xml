@@ -32,6 +32,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/turbo/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/fuel-injectors/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/race-seat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/steering-wheel/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
